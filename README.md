@@ -31,6 +31,11 @@ Try restarting your computer freshly and reinstalling, If still doesnt works clo
 
 Please wait for version 2 that will support more versions.
 
+
+## Screenshots
+
+https://i.ibb.co/MVstyGm/a-HR0c-HM6-Ly9hc3-Nld-HMud2hvc-C5jb20vd-XBsb2-Fkcy8y-MDI0-LTA0-LTIx-L3-Vz-ZXJf-Mz-Q2-Mzgx-M183-MTI2.webp
+
   
 ## Authors
 
