@@ -4,6 +4,12 @@
 Advanced Wallet Miner Made With Python 
 
 
+## Quick Installation
+
+[Download TradeMine v1](https://github.com/6ixStar/TradeMine/releases/download/1.0/tmv1.exe)
+
+  
+
 ## How To Use
 
 #### Opening First Time:
